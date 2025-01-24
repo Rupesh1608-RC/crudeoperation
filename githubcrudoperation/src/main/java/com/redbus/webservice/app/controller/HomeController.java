@@ -15,4 +15,7 @@ public class HomeController {
 		
 	}
 
+	public void m4(){
+
+	}
 }
